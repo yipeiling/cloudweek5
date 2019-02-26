@@ -1,0 +1,5 @@
+# your virtual env folder:
+C:\Users\yipl\AppData\Local\Programs\Python\Python37-32\Scripts\venv\Scripts\
+# the instance/ folder containing our secret stuff!
+instance\
+# anything else you want git to ignore, add here:
